@@ -1,0 +1,32 @@
+_repo: International-Law_41759
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41759-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wilson, George Grafton
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '41341'
+    url: http://www.gutenberg.org/2009/agents/41341
+  - agent_name: Tucker, George Fox
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '41342'
+    url: http://www.gutenberg.org/2009/agents/41342
+description: ''
+gutenberg_issued: '2013-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41759'
+  lccn: 01022924
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KZ'
+- !lcsh 'International law'
+title: International Law
+url: http://www.gutenberg.org/ebooks/41759
